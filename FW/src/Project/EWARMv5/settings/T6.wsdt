@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>T6/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>190</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      <PreferedWindows><Position>4</Position><ScreenPosX>3</ScreenPosX><ScreenPosY>95</ScreenPosY><Windows/></PreferedWindows></Workspace>
+      <Build>
+        
+        
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Debug-Log</Factory></Window><Window><Factory>Find-in-Files</Factory></Window></Windows></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>980</ColumnWidth1><ColumnWidth2>261</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build>
+    <TerminalIO/><Debug-Log><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Build</Factory></Window><Window><Factory>Find-in-Files</Factory></Window></Windows></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1307</ColumnWidth1></Debug-Log><Find-in-Files><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Build</Factory></Window><Window><Factory>Debug-Log</Factory></Window></Windows></PreferedWindows><ColumnWidth0>471</ColumnWidth0><ColumnWidth1>67</ColumnWidth1><ColumnWidth2>808</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+      
+    <Wnd0><Tabs><Tab><Identity>TabID-54-23414</Identity><TabName>Workspace</TabName><Factory>Workspace</Factory><Session><NodeDict><ExpandedNode>T6</ExpandedNode><ExpandedNode>T6/App</ExpandedNode><ExpandedNode>T6/Drivers</ExpandedNode></NodeDict></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd0><Wnd1><Tabs><Tab><Identity>TabID-22912-3870</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-20721-17340</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-24895-4108</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>E:\BlueRing\FW\src\App\Terminal_Para_m.c</Filename><XPos>0</XPos><YPos>121</YPos><SelStart>2735</SelStart><SelEnd>2735</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\BlueRing\FW\src\App\record_m.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>150</SelStart><SelEnd>150</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\BlueRing\FW\src\App\record_mod.c</Filename><XPos>0</XPos><YPos>898</YPos><SelStart>24714</SelStart><SelEnd>24714</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\BlueRing\FW\src\Drivers\keypad.c</Filename><XPos>0</XPos><YPos>183</YPos><SelStart>5157</SelStart><SelEnd>5157</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\BlueRing\FW\src\Drivers\uE988_scan.c</Filename><XPos>0</XPos><YPos>998</YPos><SelStart>24817</SelStart><SelEnd>24817</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\BlueRing\FW\src\Drivers\HJ5000_scanner.h</Filename><XPos>0</XPos><YPos>6</YPos><SelStart>597</SelStart><SelEnd>617</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\BlueRing\FW\src\Drivers\uE988_scan.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>180</SelStart><SelEnd>180</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\BlueRing\FW\src\App\Terminal_Para.h</Filename><XPos>0</XPos><YPos>18</YPos><SelStart>714</SelStart><SelEnd>714</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\BlueRing\FW\src\Drivers\BT816.h</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>777</SelStart><SelEnd>777</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\BlueRing\FW\src\Drivers\scanner.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>647</SelStart><SelEnd>647</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\BlueRing\FW\src\Drivers\HJ5000_scanner.c</Filename><XPos>0</XPos><YPos>731</YPos><SelStart>27448</SelStart><SelEnd>27448</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\BlueRing\FW\src\uCOS\uCOS-II\Ports\os_cpu_c.c</Filename><XPos>0</XPos><YPos>150</YPos><SelStart>5837</SelStart><SelEnd>5837</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\BlueRing\FW\src\App\app.c</Filename><XPos>0</XPos><YPos>1238</YPos><SelStart>29415</SelStart><SelEnd>29415</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\BlueRing\FW\src\Drivers\hw_platform.c</Filename><XPos>0</XPos><YPos>272</YPos><SelStart>6952</SelStart><SelEnd>6952</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\BlueRing\FW\src\Project\main.c</Filename><XPos>0</XPos><YPos>68</YPos><SelStart>2570</SelStart><SelEnd>2570</SelEnd></Tab><ActiveTab>14</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>E:\BlueRing\FW\src\uCOS\uCOS-II\Source\os_core.c</Filename><XPos>0</XPos><YPos>1758</YPos><SelStart>75042</SelStart><SelEnd>75042</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\BlueRing\FW\src\App\record_m.c</Filename><XPos>0</XPos><YPos>202</YPos><SelStart>3748</SelStart><SelEnd>3748</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\BlueRing\FW\src\uCOS\uCOS-II\Source\os_q.c</Filename><XPos>0</XPos><YPos>563</YPos><SelStart>29051</SelStart><SelEnd>29051</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\BlueRing\FW\src\Drivers\BT816.c</Filename><XPos>0</XPos><YPos>662</YPos><SelStart>15827</SelStart><SelEnd>15827</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\BlueRing\FW\src\uCOS\uCOS-II\Ports\os_cpu_a.asm</Filename><XPos>0</XPos><YPos>77</YPos><SelStart>4190</SelStart><SelEnd>4190</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\BlueRing\FW\src\App\PCUsart.c</Filename><XPos>0</XPos><YPos>39</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\BlueRing\FW\src\Project\stm32f10x_it.c</Filename><XPos>0</XPos><YPos>809</YPos><SelStart>26767</SelStart><SelEnd>26767</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0137caa0><key>iaridepm.enu1</key></Toolbar-0137caa0></Sizes></Row0><Row1><Sizes/></Row1></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>457</Bottom><Right>281</Right><x>-2</x><y>-2</y><xscreen>0</xscreen><yscreen>0</yscreen><sizeHorzCX>0</sizeHorzCX><sizeHorzCY>0</sizeHorzCY><sizeVertCX>207174</sizeVertCX><sizeVertCY>669096</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>184</Bottom><Right>1368</Right><x>-2</x><y>-2</y><xscreen>1370</xscreen><yscreen>186</yscreen><sizeHorzCX>1002928</sizeHorzCX><sizeHorzCY>271137</sizeHorzCY><sizeVertCX>170571</sizeVertCX><sizeVertCY>291545</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
